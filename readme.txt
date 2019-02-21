@@ -7,3 +7,4 @@ https://aws.amazon.com/amazon-linux-ami/
 
 terraform plan
 terraform apply
+terraform destroy
