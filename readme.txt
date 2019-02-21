@@ -16,3 +16,4 @@ terraform plan
 terraform apply
 terraform graph
 terraform destroy
+terraform output public_ip
