@@ -12,6 +12,7 @@ git commit -m "Add a .gitignore file"
 git remote add origin https://github.com/adrianyorke/aws_terraform.git
 git push origin master
 
+terraform init
 terraform plan
 terraform apply
 terraform graph
