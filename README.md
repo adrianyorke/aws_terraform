@@ -16,8 +16,13 @@ git remote add origin https://github.com/adrianyorke/aws_terraform.git
 git push origin master
 ```
 
+<<<<<<< HEAD:README.md
 ## Useful terraform commands:
 ```terraform plan
+=======
+terraform init
+terraform plan
+>>>>>>> 02c49f2d90babb00be0c807fd17471d1e77cfb98:readme.txt
 terraform apply
 terraform graph
 terraform destroy
